@@ -1,15 +1,15 @@
-%% README for BS and MS with LOS Simulation Code
 
-% This MATLAB script simulates a scenario involving a Base Station (BS) 
-% and a Mobile Station (MS) with Line of Sight (LOS) propagation. 
-% The script evaluates the received signal in both time and frequency domains 
-% for different angles of the mobile station's movement.
 
-% Author: [Hassan saker]
-% Date: [11/14/2024]
-% Version: 1.0
+# This MATLAB script simulates a scenario involving a Base Station (BS) 
+# and a Mobile Station (MS) with Line of Sight (LOS) propagation. 
+# The script evaluates the received signal in both time and frequency domains 
+# for different angles of the mobile station's movement.
 
-%% Overview
+- Author: [Hassan saker]
+- Date: [11/14/2024]
+- Version: 1.0
+
+### Overview
 The code consists of two main parts:
 1. **LOS Signal Simulation**: It calculates the received signal from the base station to the mobile station when moving directly towards it (0 degrees).
 2. **Angle Variation Analysis**: It analyzes how the received signal changes as the angle of movement changes (45°, 90°, 135°, and 180°).
