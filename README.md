@@ -1,9 +1,9 @@
 
 
-# This MATLAB script simulates a scenario involving a Base Station (BS) 
-# and a Mobile Station (MS) with Line of Sight (LOS) propagation. 
-# The script evaluates the received signal in both time and frequency domains 
-# for different angles of the mobile station's movement.
+#### This MATLAB script simulates a scenario involving a Base Station (BS) 
+#### and a Mobile Station (MS) with Line of Sight (LOS) propagation. 
+#### The script evaluates the received signal in both time and frequency domains 
+#### for different angles of the mobile station's movement.
 
 - Author: [Hassan saker]
 - Date: [11/14/2024]
